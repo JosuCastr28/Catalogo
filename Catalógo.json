@@ -1,0 +1,163 @@
+[
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00002",
+      "descripcion": "ABRAZADERA OMEGA 1",
+      "unidad_de_medida": "PCE",
+      "precio": "$6.95",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00003",
+      "descripcion": "ABRAZADERA OMEGA 1/2\"",
+      "unidad_de_medida": "PCE",
+      "precio": "$3.95",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00004",
+      "descripcion": "ABRAZADERA SIN FIN HS-28",
+      "unidad_de_medida": "PCE",
+      "precio": "$10.15",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00006",
+      "descripcion": "ABRAZADERA SIN FIN HS-10",
+      "unidad_de_medida": "PCE",
+      "precio": "$7.85",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00007",
+      "descripcion": "ABRAZADERA SIN FIN HS-104",
+      "unidad_de_medida": "PCE",
+      "precio": "$31.03",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00008",
+      "descripcion": "ABRAZADERA SIN FIN HS-12",
+      "unidad_de_medida": "PCE",
+      "precio": "$7.17",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00009",
+      "descripcion": "ABRAZADERA SIN FIN HS-16",
+      "unidad_de_medida": "PCE",
+      "precio": "$8.63",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00010",
+      "descripcion": "ABRAZADERA SIN FIN HS-20",
+      "unidad_de_medida": "PCE",
+      "precio": "$9.17",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00011",
+      "descripcion": "ABRAZADERA SIN FIN HS-24",
+      "unidad_de_medida": "PCE",
+      "precio": "$9.45",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00012",
+      "descripcion": "ABRAZADERA SIN FIN HS-36",
+      "unidad_de_medida": "PCE",
+      "precio": "$11.14",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00013",
+      "descripcion": "ABRAZADERA SIN FIN HS-4",
+      "unidad_de_medida": "PCE",
+      "precio": "$5.21",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00014",
+      "descripcion": "ABRAZADERA SIN FIN HS-52",
+      "unidad_de_medida": "PCE",
+      "precio": "$19.28",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00015",
+      "descripcion": "ABRAZADERA SIN FIN HS-6",
+      "unidad_de_medida": "PCE",
+      "precio": "$7.56",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00016",
+      "descripcion": "ABRAZADERA SIN FIN HS-72",
+      "unidad_de_medida": "PCE",
+      "precio": "$24.00",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00017",
+      "descripcion": "ABRAZADERA SIN FIN HS-8",
+      "unidad_de_medida": "PCE",
+      "precio": "$7.73",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00018",
+      "descripcion": "ABRAZADERA SIN FIN HS-88",
+      "unidad_de_medida": "PCE",
+      "precio": "$29.00",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00019",
+      "descripcion": "ABRAZADERA SIN FIN HS-89",
+      "unidad_de_medida": "PCE",
+      "precio": "$29.00",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00020",
+      "descripcion": "ABRAZADERA TIPO U SIN TUERCA 1/2 X 1/4",
+      "unidad_de_medida": "PCE",
+      "precio": "$5.13",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00021",
+      "descripcion": "ABRAZADERA TIPO U SIN TUERCA 2 X 1/4\"",
+      "unidad_de_medida": "PCE",
+      "precio": "$9.76",
+      "familia": "Abrazaderas"
+    },
+    {
+      "almacen": "CERAMICA",
+      "referencia": "ARI00022",
+      "descripcion": "ABRAZADERA TIPO U SIN TUERCA 3 X 3/8\"",
+      "unidad_de_medida": "PCE",
+      "precio": "$26.50",
+      "familia": "Abrazaderas"
+    }
+  ]
+  
