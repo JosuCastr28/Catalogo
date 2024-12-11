@@ -1,4 +1,3 @@
-// Cargar los productos desde el archivo JSON
 let products = [];
 fetch('Catalógo.json')
    .then(response => response.json())
