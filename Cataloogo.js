@@ -20,7 +20,7 @@ function displayProducts(products) {
          <p>Referencia: ${product.referencia}</p>
          <p>Unidad de Medida: ${product.unidad_de_medida}</p>
          <p>Familia: ${product.familia}</p>
-         <p>Almacén: ${product.almacen}</p>
+        
       `;
       productList.appendChild(productDiv);
    });
