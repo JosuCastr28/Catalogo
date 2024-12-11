@@ -24,6 +24,7 @@
   {"Producto": "ABRAZADERA TIPO U SIN TUERCAS 1 1/2 X 1/4\"", "Código": "ARI00025", "Categoría": "Abrazaderas", "Unidad de medida": "PCE"},
   {"Producto": "ABRAZADERA TIPO U SIN TUERCAS 1 X 1/4\"", "Código": "ARI00026", "Categoría": "Abrazaderas", "Unidad de medida": "PCE"},
   {"Producto": "ABRAZADERA UNICANAL 1\"", "Código": "ARI00027", "Categoría": "Abrazaderas", "Unidad de medida": "PCE"},
+  
   {"Producto": "ABRAZADERA UNICANAL 1/2\"", "Código": "ARI00028", "Categoría": "Abrazaderas", "Unidad de medida": "PCE"},
   {"Producto": "ABRAZADERA UNICANAL 2\"", "Código": "ARI00029", "Categoría": "Abrazaderas", "Unidad de medida": "PCE"},
   {"Producto": "ABRAZADERA UNICANAL 3/4\"", "Código": "ARI00030", "Categoría": "Abrazaderas", "Unidad de medida": "PCE"},
@@ -58,3 +59,4 @@
   {"Producto": "ALAMBRE GALVANIZADO 4 MM X 5 KGS", "Código": "ARI00075", "Categoría": "Alambres", "Unidad de medida": "KGS"},
   {"Producto": "ALAMBRE GALVANIZADO 5 MM X 5 KGS", "Código": "ARI00076", "Categoría": "Alambres", "Unidad de medida": "KGS"},
   {"Producto": "ALAMBRE TINADO 0.9 MM", "Código": "ARI00077", "Categoría": "Alambres", "Unidad de medida": "KG"}
+]
